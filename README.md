@@ -85,19 +85,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abubakar651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar651&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abubakar651&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abubakar-qb/">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
