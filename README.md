@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Abubakar Iqbal 👋</h1>
+  <h1>Hi, I'm Abubakar Iqbal </h1>
 
   <p>
     <b>Machine Learning Engineer · Agentic AI & Generative AI · Scalable Systems</b><br/>
