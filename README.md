@@ -1,36 +1,36 @@
 <div align="center">
 
-  <h1>Hi, I'm Abubakar Iqbal 👋</h1>
+  <h1>Abubakar Iqbal</h1>
 
   <p>
-    <b>Machine Learning Engineer · Agentic AI · Scalable Systems</b><br/>
-    <i>Building production-grade intelligent systems — hybrid RAG, autonomous agents, industrial digital twins & computer vision.</i>
+    <b>Machine Learning Engineer · Generative AI & Agents · Scalable Backend Systems</b><br/>
+    <i>Specializing in enterprise RAG pipelines, autonomous agentic workflows, industrial digital twins, and computer vision.</i>
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/abubakar-qb/">
-      <img src="https://img.shields.io/badge/LinkedIn-Abubakar_Iqbal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Abubakar_Iqbal-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:abubakariqbal651@gmail.com">
-      <img src="https://img.shields.io/badge/Email-abubakariqbal651@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-abubakariqbal651@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Abubakar651&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Abubakar651&style=flat-square&color=0e75b6" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Quick Overview
+### Professional Overview
 
-- 🎓 **BS in Computer Science** — University of Central Punjab (UCP), Lahore (2021 – 2025).
-- 🤖 **Specialization:** Production RAG pipelines, Agentic AI loops (LangGraph), Fine-tuning Transformers, Computer Vision & Process Automation.
-- 💼 **Experience:** Enterprise Legal RAG across 30k+ court rulings, n8n autonomous voice/CRM pipelines, and industrial digital twin simulation.
-- 📍 **Status:** Based in Lahore · Open to On-site & Remote roles.
+- **Education:** BS in Computer Science — University of Central Punjab (UCP), Lahore (2021 – 2025).
+- **Core Focus:** Enterprise Hybrid RAG, Agentic AI Systems (LangGraph, LangChain), Transformer Fine-Tuning, Computer Vision, and Process Automation.
+- **Background:** Production hybrid RAG across 30,000+ judgments, n8n automated AI voice and CRM pipelines, and industrial digital twin simulation.
+- **Location:** Lahore, Pakistan (Available for on-site, hybrid, and remote roles).
 
 ---
 
-### 💼 Commercial & Engineering Experience
+### Commercial & Engineering Experience
 
 <table>
   <thead>
@@ -48,9 +48,9 @@
         <i>Enterprise Legal Intelligence</i>
       </td>
       <td>
-        • Built a <b>7-stage hybrid RAG pipeline</b> across 30,000+ judgments (~600k chunks) on AWS Bedrock & S3.<br/>
-        • Merged BM25 lexical + dense vector search via <b>RRF (k=60) & Cohere Rerank</b>, lifting precision to <b>95–100%</b>.<br/>
-        • Reduced legal case discovery from <b>3+ hours to under 30 seconds</b>.
+        • Engineered a 7-stage hybrid RAG pipeline across 30,000+ judgments (~600k chunks) using AWS Bedrock and S3.<br/>
+        • Merged BM25 lexical and dense vector search via Reciprocal Rank Fusion (RRF, k=60) and Cohere Rerank, elevating retrieval precision to 95–100%.<br/>
+        • Reduced legal case discovery from over 3 hours to under 30 seconds.
       </td>
       <td>
         <code>AWS Bedrock</code><br/>
@@ -66,25 +66,25 @@
         <i>Autonomous Operations</i>
       </td>
       <td>
-        • Deployed an <b>AI Career Voice Advisor</b> coupling LLM logic with ElevenLabs API for interactive voice response.<br/>
-        • Built bi-directional <b>Slack & HubSpot CRM sync</b> for automated lead scoring, routing, and real-time alerts.
+        • Built an AI Career Voice Advisor integrating LLM reasoning with ElevenLabs API for conversational voice response.<br/>
+        • Developed bi-directional Slack and HubSpot CRM synchronization pipelines for lead scoring, automated routing, and alerts.
       </td>
       <td>
         <code>n8n</code><br/>
         <code>ElevenLabs</code><br/>
-        <code>HubSpot</code><br/>
+        <code>HubSpot CRM</code><br/>
         <code>Slack API</code>
       </td>
     </tr>
     <tr>
       <td>
-        <b>AI & Data Fellow</b><br/>
+        <b>AI & Data Engineering Fellow</b><br/>
         <b>NAVTTC / NIAI</b><br/>
-        <i>NETSOL Technologies</i>
+        <i>Hosted at NETSOL Technologies</i>
       </td>
       <td>
-        • Intensive 12-week program covering deep learning, ML pipelines, and database modeling.<br/>
-        • Delivered a <b>Credit Risk Audit (150K records)</b> and a normalized MySQL LMS architecture.
+        • Completed intensive 12-week program covering deep learning, ML pipelines, and relational database modeling.<br/>
+        • Delivered Credit Risk Delinquency Analysis across 150,000 borrower records and a normalized MySQL LMS architecture.
       </td>
       <td>
         <code>Scikit-learn</code><br/>
@@ -98,142 +98,142 @@
 
 ---
 
-### 🚀 Projects Portfolio
+### Featured Technical Projects
 
 <table>
   <thead>
     <tr>
       <th width="32%">Project</th>
-      <th width="48%">Summary & Key Metric</th>
+      <th width="48%">Summary & Key Metrics</th>
       <th width="20%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
-    <!-- 1. FYP Traffic & Sales (Always on top) -->
+    <!-- 1. FYP Traffic & Sales -->
     <tr>
       <td>
         <b>Consumer Traffic & Sales Analytics</b><br/>
-        <i>Final Year Project (Lead) 🏆</i>
+        <i>Final Year Project (Lead)</i>
       </td>
       <td>
-        Edge CCTV analytics combining <b>YOLOv8 detection + DeepSORT tracking</b> for customer trajectories and dwell-time heatmaps; correlated with sales via Gemini insights.
+        Edge CCTV analytics combining fine-tuned YOLOv8 detection and DeepSORT tracking for spatial dwell times and trajectories; correlated with sales data via Gemini insights.
       </td>
       <td>
         <code>YOLOv8</code> <code>DeepSORT</code><br/><code>MongoDB</code> <code>React</code>
       </td>
     </tr>
-    <!-- 2. SolarSense EMS (Flagship AI/IoT, In Progress) -->
+    <!-- 2. SolarSense EMS -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/SolarSense-Ems">SolarSense EMS</a></b><br/>
-        <i>Industrial Digital Twin · In Active Development 🚧</i>
+        <i>Industrial Digital Twin · In Active Development</i>
       </td>
       <td>
-        Digital twin optimizing 464 days of solar telemetry. Cuts <b>LESCO B3 peak tariff & MDI penalties</b> via battery dispatch; includes CNN panel defect detection.
+        Digital twin optimizing 464 days of solar telemetry. Minimizes LESCO B3 peak tariffs and MDI penalties through predictive battery dispatch; includes CNN panel defect detection.
       </td>
       <td>
         <code>Python</code> <code>CNN</code><br/><code>Time-Series</code>
       </td>
     </tr>
-    <!-- 3. BERT Phishing Classifier (Fine-Tuned SOTA NLP) -->
+    <!-- 3. BERT Phishing Classifier -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/bert-phishing-classifier">BERT Phishing Classifier</a></b><br/>
         <i>Fine-Tuned NLP</i>
       </td>
       <td>
-        Fine-tuned <code>bert-base-uncased</code> for phishing detection. Decision threshold tuning ($0.50 \to 0.15$) cut False Negatives by <b>>20%</b> with <b>0.927 F1</b>.
+        Fine-tuned <code>bert-base-uncased</code> for cybersecurity URL classification. Decision threshold tuning (0.50 to 0.15) reduced False Negatives by >20% with 0.927 F1-score.
       </td>
       <td>
         <code>PyTorch</code> <code>Transformers</code><br/><code>Hugging Face</code>
       </td>
     </tr>
-    <!-- 4. Autonomous AI Coding Agent (Agentic AI) -->
+    <!-- 4. Autonomous AI Coding Agent -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/AI-Coding-Agent">AI Coding Agent</a></b><br/>
-        <i>Self-Healing Agent</i>
+        <i>Autonomous Software Agent</i>
       </td>
       <td>
-        Autonomous coding agent that writes, runs, captures errors, and <b>recursively self-debugs Python code</b> using Groq LLaMA 3.3 70B tool calling.
+        Autonomous development agent that generates, runs, captures execution errors, and recursively self-debugs Python scripts using Groq LLaMA 3.3 70B tool calling.
       </td>
       <td>
         <code>Flask</code> <code>Groq</code><br/><code>LLaMA 3.3</code>
       </td>
     </tr>
-    <!-- 5. LangChain & RAG Suite (Generative AI & Semantic Search) -->
+    <!-- 5. LangChain & RAG Suite -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/Langchain-Projects">LangChain Projects</a></b> / <b><a href="https://github.com/Abubakar651/Retrieval-Augmented-Generation-RAG-App">RAG</a></b><br/>
         <i>Agentic Reasoning & Semantic Search</i>
       </td>
       <td>
-        ReAct research assistant with 4 integrated tools & SQLite memory, plus conversational document Q&A powered by FAISS vector retrieval.
+        ReAct research assistant with 4 integrated tool interfaces and SQLite memory, alongside conversational document Q&A backed by FAISS vector indexing.
       </td>
       <td>
         <code>LangChain</code> <code>FAISS</code><br/><code>Streamlit</code> <code>Groq</code>
       </td>
     </tr>
-    <!-- 6. Job Search Automation Agent (Automation & Multi-Agent Engine) -->
+    <!-- 6. Job Search Automation Agent -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/job-automation-agent">Job Search Automation</a></b><br/>
-        <i>Multi-Agent Engine</i>
+        <i>Multi-Agent Automation Engine</i>
       </td>
       <td>
-        Multi-agent system with automated scrapers (Indeed, LinkedIn), objective scoring rubrics, dynamic LaTeX CV compilation, and status tracking.
+        Multi-agent application system with automated job aggregators (Indeed, LinkedIn), objective scoring rubrics, dynamic LaTeX CV generation, and status tracking.
       </td>
       <td>
         <code>Python</code> <code>LaTeX</code><br/><code>Playwright</code>
       </td>
     </tr>
-    <!-- 7. FastAPI Backend (Backend Microservices) -->
+    <!-- 7. FastAPI Backend -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/FAST-Api">FastAPI REST Backend</a></b><br/>
-        <i>Production Microservice</i>
+        <i>Production Web Service</i>
       </td>
       <td>
-        Production blog REST API featuring OAuth2/JWT auth, Bcrypt password hashing, SQLAlchemy ORM, and full CRUD operations.
+        Production blog REST API implementing OAuth2 password flow, JWT authentication, Bcrypt password hashing, SQLAlchemy ORM, and full CRUD operations.
       </td>
       <td>
         <code>FastAPI</code> <code>SQLAlchemy</code><br/><code>JWT</code> <code>Pydantic</code>
       </td>
     </tr>
-    <!-- 8. NIAI Showcase (Data Engineering & Business Analytics) -->
+    <!-- 8. NIAI Showcase -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/NIAI">NIAI / NETSOL Showcase</a></b><br/>
-        <i>Data Science & ML</i>
+        <i>Data Science & ML Suite</i>
       </td>
       <td>
-        End-to-end repository featuring Credit Score Risk EDA (150K records), retail order manager, and normalized MySQL LMS system.
+        Repository comprising exploratory credit risk modeling (150K records), retail order processing logic, and normalized relational database schemas.
       </td>
       <td>
         <code>Python</code> <code>MySQL</code><br/><code>Pandas</code> <code>Power BI</code>
       </td>
     </tr>
-    <!-- 9. Machine Learning Lab (Core ML Benchmarks) -->
+    <!-- 9. Machine Learning Lab -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/Machine-Learning">Machine Learning Lab</a></b><br/>
-        <i>Deep Learning & Analytics</i>
+        <i>Deep Learning & Statistical Models</i>
       </td>
       <td>
-        Implementations including LSTM stock price forecaster, histopathologic cancer classifier (ResNet50), and regression benchmarks.
+        Implementations including LSTM time-series stock forecaster, histopathologic cancer classifier (ResNet50), and classical ML benchmarks.
       </td>
       <td>
         <code>PyTorch</code> <code>TensorFlow</code><br/><code>Scikit-learn</code>
       </td>
     </tr>
-    <!-- 10. Computer Vision Lab (Core CV Foundations) -->
+    <!-- 10. Computer Vision Lab -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/OpenCv-Learning">Computer Vision Lab</a></b><br/>
-        <i>Image Processing</i>
+        <i>Image Processing Systems</i>
       </td>
       <td>
-        Practical CV pipelines covering contours, spatial filtering, morphological transforms, gradients, and histogram equalization.
+        Computer vision implementations covering contour analysis, spatial filtering, morphological operations, edge detection, and histogram equalization.
       </td>
       <td>
         <code>OpenCV</code> <code>NumPy</code><br/><code>Python</code>
@@ -244,7 +244,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+### Technical Skills & Tooling
 
 <table>
   <tbody>
@@ -299,16 +299,16 @@
 
 ---
 
-### 📜 Verified Certifications
+### Verified Credentials
 
-- 🏆 **[Machine Learning Specialization](https://coursera.org/share/6dd419c780a219672019a50b3eff4154)** — DeepLearning.AI & Stanford Online (*Supervised, Unsupervised & Advanced Learning Algorithms*)
-- ☁️ **[AWS Academy Graduate — Cloud Foundations](https://www.credly.com/badges/8c283ff3-331a-4c50-8254-df0c3f891a00/public_url)** — AWS Training & Certification
-- 🧬 **[Cancer Image Detection with PyTorch](https://courses.cognitiveclass.ai/certificates/3f5814eb9cfe494dae90f0b4c5a52c20)** — IBM Cognitive Class Verified
-- 🧠 **[Deep Learning with PyTorch: CNNs](https://www.linkedin.com/learning/certificates/ea2486f1a3ce3cffcbb2ba4ffc10af62f0bfacdf849a991ac36d9cd10d6d69dc)** — LinkedIn Learning Verified
+- **[Machine Learning Specialization](https://coursera.org/share/6dd419c780a219672019a50b3eff4154)** — DeepLearning.AI & Stanford Online
+- **[AWS Academy Graduate — Cloud Foundations](https://www.credly.com/badges/8c283ff3-331a-4c50-8254-df0c3f891a00/public_url)** — AWS Training & Certification
+- **[Cancer Image Detection with PyTorch](https://courses.cognitiveclass.ai/certificates/3f5814eb9cfe494dae90f0b4c5a52c20)** — IBM Cognitive Class Verified
+- **[Deep Learning with PyTorch: CNNs](https://www.linkedin.com/learning/certificates/ea2486f1a3ce3cffcbb2ba4ffc10af62f0bfacdf849a991ac36d9cd10d6d69dc)** — LinkedIn Learning Verified
 
 ---
 
-### 📊 Real-Time GitHub Activity
+### Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abubakar651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Abubakar's GitHub Stats" />
@@ -323,15 +323,15 @@
 
 ---
 
-### 🤝 Connect & Collaborate
+### Contact
 
 <p align="center">
-  Open for <b>ML Engineering</b>, <b>Agentic AI</b>, and <b>Applied AI</b> opportunities.<br/><br/>
+  Available for Machine Learning Engineering, Agentic AI, and Applied AI opportunities.<br/><br/>
   <a href="https://www.linkedin.com/in/abubakar-qb/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abubakar_Iqbal-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abubakariqbal651@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-abubakariqbal651@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
