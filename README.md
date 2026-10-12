@@ -109,11 +109,24 @@
     </tr>
   </thead>
   <tbody>
-    <!-- SolarSense EMS -->
+    <!-- 1. FYP Traffic & Sales (Always on top) -->
+    <tr>
+      <td>
+        <b>Consumer Traffic & Sales Analytics</b><br/>
+        <i>Final Year Project (Lead) 🏆</i>
+      </td>
+      <td>
+        Edge CCTV analytics combining <b>YOLOv8 detection + DeepSORT tracking</b> for customer trajectories and dwell-time heatmaps; correlated with sales via Gemini insights.
+      </td>
+      <td>
+        <code>YOLOv8</code> <code>DeepSORT</code><br/><code>MongoDB</code> <code>React</code>
+      </td>
+    </tr>
+    <!-- 2. SolarSense EMS (Flagship AI/IoT, In Progress) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/SolarSense-Ems">SolarSense EMS</a></b><br/>
-        <i>Industrial Digital Twin</i>
+        <i>Industrial Digital Twin · In Active Development 🚧</i>
       </td>
       <td>
         Digital twin optimizing 464 days of solar telemetry. Cuts <b>LESCO B3 peak tariff & MDI penalties</b> via battery dispatch; includes CNN panel defect detection.
@@ -122,7 +135,7 @@
         <code>Python</code> <code>CNN</code><br/><code>Time-Series</code>
       </td>
     </tr>
-    <!-- BERT Phishing Classifier -->
+    <!-- 3. BERT Phishing Classifier (Fine-Tuned SOTA NLP) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/bert-phishing-classifier">BERT Phishing Classifier</a></b><br/>
@@ -135,20 +148,7 @@
         <code>PyTorch</code> <code>Transformers</code><br/><code>Hugging Face</code>
       </td>
     </tr>
-    <!-- FYP Traffic & Sales -->
-    <tr>
-      <td>
-        <b>Traffic & Sales Analysis</b><br/>
-        <i>Final Year Project (Lead)</i>
-      </td>
-      <td>
-        Edge CCTV analytics combining <b>YOLOv8 + DeepSORT</b> for customer tracking and dwell-time heatmaps; correlated with sales via Gemini insights.
-      </td>
-      <td>
-        <code>YOLOv8</code> <code>DeepSORT</code><br/><code>MongoDB</code> <code>React</code>
-      </td>
-    </tr>
-    <!-- AI Coding Agent -->
+    <!-- 4. Autonomous AI Coding Agent (Agentic AI) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/AI-Coding-Agent">AI Coding Agent</a></b><br/>
@@ -161,7 +161,20 @@
         <code>Flask</code> <code>Groq</code><br/><code>LLaMA 3.3</code>
       </td>
     </tr>
-    <!-- Job Automation Agent -->
+    <!-- 5. LangChain & RAG Suite (Generative AI & Semantic Search) -->
+    <tr>
+      <td>
+        <b><a href="https://github.com/Abubakar651/Langchain-Projects">LangChain Projects</a></b> / <b><a href="https://github.com/Abubakar651/Retrieval-Augmented-Generation-RAG-App">RAG</a></b><br/>
+        <i>Agentic Reasoning & Semantic Search</i>
+      </td>
+      <td>
+        ReAct research assistant with 4 integrated tools & SQLite memory, plus conversational document Q&A powered by FAISS vector retrieval.
+      </td>
+      <td>
+        <code>LangChain</code> <code>FAISS</code><br/><code>Streamlit</code> <code>Groq</code>
+      </td>
+    </tr>
+    <!-- 6. Job Search Automation Agent (Automation & Multi-Agent Engine) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/job-automation-agent">Job Search Automation</a></b><br/>
@@ -174,33 +187,7 @@
         <code>Python</code> <code>LaTeX</code><br/><code>Playwright</code>
       </td>
     </tr>
-    <!-- NIAI -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/Abubakar651/NIAI">NIAI / NETSOL Showcase</a></b><br/>
-        <i>Data Science & ML</i>
-      </td>
-      <td>
-        End-to-end repository featuring Credit Score Risk EDA (150K records), retail order manager, and normalized MySQL LMS system.
-      </td>
-      <td>
-        <code>Python</code> <code>MySQL</code><br/><code>Pandas</code> <code>Power BI</code>
-      </td>
-    </tr>
-    <!-- LangChain & RAG Suite -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/Abubakar651/Langchain-Projects">LangChain Projects</a></b> / <b><a href="https://github.com/Abubakar651/Retrieval-Augmented-Generation-RAG-App">RAG</a></b><br/>
-        <i>Agentic Reasoning</i>
-      </td>
-      <td>
-        ReAct research assistant with 4 integrated tools & SQLite memory, plus conversational document Q&A powered by FAISS vector retrieval.
-      </td>
-      <td>
-        <code>LangChain</code> <code>FAISS</code><br/><code>Streamlit</code> <code>Groq</code>
-      </td>
-    </tr>
-    <!-- FAST-Api -->
+    <!-- 7. FastAPI Backend (Backend Microservices) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/FAST-Api">FastAPI REST Backend</a></b><br/>
@@ -213,7 +200,20 @@
         <code>FastAPI</code> <code>SQLAlchemy</code><br/><code>JWT</code> <code>Pydantic</code>
       </td>
     </tr>
-    <!-- Machine Learning Lab -->
+    <!-- 8. NIAI Showcase (Data Engineering & Business Analytics) -->
+    <tr>
+      <td>
+        <b><a href="https://github.com/Abubakar651/NIAI">NIAI / NETSOL Showcase</a></b><br/>
+        <i>Data Science & ML</i>
+      </td>
+      <td>
+        End-to-end repository featuring Credit Score Risk EDA (150K records), retail order manager, and normalized MySQL LMS system.
+      </td>
+      <td>
+        <code>Python</code> <code>MySQL</code><br/><code>Pandas</code> <code>Power BI</code>
+      </td>
+    </tr>
+    <!-- 9. Machine Learning Lab (Core ML Benchmarks) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/Machine-Learning">Machine Learning Lab</a></b><br/>
@@ -226,7 +226,7 @@
         <code>PyTorch</code> <code>TensorFlow</code><br/><code>Scikit-learn</code>
       </td>
     </tr>
-    <!-- Computer Vision -->
+    <!-- 10. Computer Vision Lab (Core CV Foundations) -->
     <tr>
       <td>
         <b><a href="https://github.com/Abubakar651/OpenCv-Learning">Computer Vision Lab</a></b><br/>
